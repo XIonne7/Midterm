@@ -1,0 +1,19 @@
+body{
+
+    background: rgb(244, 191, 150);
+
+}
+.tryAgainbox{
+
+    background: rgb(244, 223, 182);
+    height: 300px;
+    width: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+.scores-container{
+background: blue;
+
+}
